@@ -1,0 +1,47 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "17:13:21 08/23/2017 "
+* "netlist""
+* "runtitle" "cmfb added to telescope and gain boosting"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   2.2272        
++ b =   2.2272        
++ c = 720.6934m       
++ d = 720.6934m       
++ g3 =   1.5252        
++ g4 =   1.5252        
++ g5 =   1.4352        
++ g6 =   1.4352        
++ ig4 = 501.3220m       
++ ig5 = 501.3220m       
++ ig6 =   1.7998        
++ ig8 =   1.7998        
++ iss = 561.1356m       
++ iss11 = 599.5515m       
++ iss22 = 599.5560m       
++ vb1 =   1.7988        
++ vb11 =   1.2500        
++ vbg1 =   1.3000        
++ vbg4 =   1.3000        
++ vbg5 =   1.0000        
++ vbg8 =   1.0000        
++ vbig10 = 600.0000m       
++ vbig6 =   1.6000        
++ vbig7 = 600.0000m       
++ vbig8 =   1.6000        
++ vbig9 = 600.0000m       
++ vbtail = 600.0000m       
++ vdd =   2.5000        
++ vinn =   1.2500        
++ vinp =   1.2500        
++ voutn =   1.2478        
++ voutp =   1.2478        
++ y =   1.3227        
++ z =   1.6162        
+***   END: Saved Operating Point ***                     

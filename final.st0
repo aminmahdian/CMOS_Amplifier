@@ -1,0 +1,40 @@
+***** HSPICE -- A-2008.03 32-BIT (Feb 26 2008) winnt ******
+ Input File: j:\books\ma courses\cmos integrated circuit\project\0.cmos project(
+ lic:
+ lic: FLEXlm: v8.5b
+ lic: USER:   L E N O V O - K P S  HOSTNAME: Amin
+ lic: HOSTID: "507b9dca58af 00ffc4c3a6f8 46436b9e82de 00dbdf879633 02dbdf879632"
+ lic: Using FLEXlm license file:
+ lic: C:\Flexlm\Hspice_2007-09.lic
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 31-dec-2020/2007.9
+ lic: NODE LOCKED license on hostid "507b9dca58af 00ffc4c3a6f8 46436b9e82de 00db
+ lic:
+ Init: hspice initialization file: C:\synopsys\Hspice_A-2008.03\hspice.ini
+ init: begin read circuit files,  cpu clock=  2.43E-01
+ init: end read circuit files,  cpu clock=  3.05E-01 memory=    276 kb
+ init: begin check errors,  cpu clock=  3.05E-01
+ init: end check errors,  cpu clock=  3.86E-01 memory=    458 kb
+ init: begin setup matrix, pivot=    10 cpu clock=  3.86E-01
+       establish matrix -- done,  cpu clock=  4.03E-01 memory=    481 kb
+       re-order matrix -- done,  cpu clock=  4.12E-01 memory=    495 kb
+ init: end setup matrix,  cpu clock=  4.21E-01 memory=    535 kb
+ dcop: begin dcop,  cpu clock=  4.30E-01
+ dcop: end dcop,  cpu clock=  5.00E-01 memory=    535 kb  tot_iter=     266
+ output: j:\books\ma courses\cmos integrated circuit\project\0.cmos project(emai
+ sweep: ac ac0    begin, #sweeps=  44 cpu clock=  5.23E-01
+ ac: frequency=    3.17E+00
+ ac: frequency=    1.26E+01
+ ac: frequency=    7.96E+01
+ ac: frequency=    7.96E+02
+ ac: frequency=    5.02E+03
+ ac: frequency=    3.17E+04
+ ac: frequency=    3.17E+05
+ ac: frequency=    2.00E+06
+ ac: frequency=    2.00E+07
+ ac: frequency=    1.26E+08
+ ac: frequency=    7.96E+08
+ sweep: ac ac0    end,  cpu clock=  7.87E-01 memory=    536 kb
+>info:         ***** hspice job concluded
+ Init: hspice initialization file: C:\synopsys\Hspice_A-2008.03\hspice.ini
+ lic: Release hspice token(s)
